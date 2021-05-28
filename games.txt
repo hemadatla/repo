@@ -1,3 +1,5 @@
 baseball
 cricket
 tennis
+swimming
+scuba diving
