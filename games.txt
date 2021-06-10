@@ -3,3 +3,4 @@ cricket
 tennis
 swimming
 scuba diving
+Bowling
